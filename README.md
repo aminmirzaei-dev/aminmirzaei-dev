@@ -1,91 +1,32 @@
-## Hello, I am Amin 👋
+<h1 align="center">Hi 👋, I'm Amin</h1>
+<h3 align="center">An enthusiastic software developer with a passion for learning in Iran</h3>
 
-<h3> 👦A short summary of me </h3>
-<h4>I am a programmer and developer of .NET and desktop software, and I master Windows Forms - WPF - UWP - Qt Widgets technologies and I know C#, C++, C and Visual Basic languages.
-</h4>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminmirzaei-dev" alt="aminmirzaei-dev" /></a> </p>
 
-----------------------------------------------------------------------
+- 🔭 I’m currently working on [Golden Office](coming soon)
 
-### ❤ I love working with
+- 🌱 I’m currently learning **Rust Programming Language - Vue JS**
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Csharp-slateblue?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp"/>
-  <img src="https://img.shields.io/badge/Cpp-%23007ACC.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="Cpp"/>
-  <img src="https://img.shields.io/badge/.Net-%23663399.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
-  <img src="https://img.shields.io/badge/Qt Widgets-darkgreen?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt Widgets"/>
-  <img src="https://img.shields.io/badge/xamarin-dodgerblue.svg?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
-  <img src="https://img.shields.io/badge/Microsoft Visual Studio-%231572B6.svg?style=for-the-badge&logo=visualstudio&logoColor=black" alt="Visual Stduio"/>
-</div>
+- 👨‍💻 All my open source projects are available at the following address [https://github.com/aminmirzaei-dev?tab=repositories](https://github.com/aminmirzaei-dev?tab=repositories)
 
-### 🌱 I’m learning
+- 💬 Ask me about **C - C++ - C# - java - .Net - WPF - WinForms - UWP - GTK+ - Qt Framework**
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-  <img src="https://img.shields.io/badge/Blazor-slateblue?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-  <img src="https://img.shields.io/badge/Flutter-red.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
+- 📫 How to reach me **Email : (aminmirzaeidev@gmail.com - aminahmadmirzayi@gmail.com) - Instagram : aminmirzaei.dev**
 
-### 📫 How to reach me
+- ⚡ Fun fact **I am not superman.**
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://instagram.com/amin.reals">
-    <img src="https://img.shields.io/badge/Instagram-crimson?style=for-the-badge&logo=instagram&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-black.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aminmirzaei.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminmirzaei.dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aminmirzaeidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminmirzaeidev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/aminmirzaei-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aminmirzaei-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/aminmirzaei.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminmirzaei.dev" height="30" width="40" /></a>
+</p>
 
-### 🔭 I’m working on
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminmirzaei-dev&show_icons=true&locale=en&layout=compact" alt="aminmirzaei-dev" /></p>
 
-### 🧠 IQ
-I have an IQ of <b>"147"</b> in the test of <b>(https://www.mensa.org)</b> and in the category of highly intelligent people.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminmirzaei-dev&show_icons=true&locale=en" alt="aminmirzaei-dev" /></p>
 
-### 🐟 Belief
-
-I am an <b>"Atheist"</b> and I do not accept anything that is against <b>(Science)</b> and does not have valid and scientific documents
-
-### ⚡ Fun fact
-
-- I'm definitely not Batman
-- My favorite theme is Dracula
-- I can type 142 words per minute according to (https://monkeytype.com)
-
-
-### 🤔 I’m looking for help with
-
-- Creating a web processor engine using C++
-
-------------------------------------------------------
-
-<h2> 💡 Infographics</h2>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminmirzaei-dev&show_icons=true&theme=radical)
-
-[![Amin Mirzaei's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aminmirzaei-dev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true)](https://github.com/aminmirzaei-dev)
-
-<!--
-**aminmirzaei-dev/aminmirzaei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
