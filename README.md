@@ -41,38 +41,76 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ---
 
-## 📊 Open‑Source Infographics (Dynamic)
+## 📊 Open‑Source Infographics (Dark • Organized)
 
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=aminmirzaei-dev&style=for-the-badge"/>
+<table>
+<tr>
+<td>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=aminmirzaei-dev&show_icons=true&theme=transparent"/>
+<!-- GitHub Stats (Dark) -->
+<img src="https://github-readme-stats.vercel.app/api?username=aminmirzaei-dev&show_icons=true&theme=radical&hide_border=true"/>
 
-<!-- Top Languages (Compact) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaei-dev&layout=compact&langs_count=8"/>
+</td>
+<td>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=aminmirzaei-dev&theme=default&date_format=M%20j%5B%2C%20Y%5D"/>
+<!-- Streak (Dark) -->
+<img src="https://streak-stats.demolab.com?user=aminmirzaei-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=aminmirzaei-dev&margin-w=10&theme=flat"/>
+</td>
+</tr>
+<tr>
+<td>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&area=true&hide_border=true"/>
+<!-- Top Languages (Dark • Compact) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaei-dev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-<!-- 💯 Score / Profile Metrics (github‑metrics) -->
-<img src="https://metrics.lecoq.io/aminmirzaei-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&achievements=1&lines=1"/>
+</td>
+<td>
 
-<!-- 🟡 Language Usage % / Donut & Repo Breakdown -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev"/>
+<!-- Trophies (Dark) -->
+<img src="https://github-profile-trophy.vercel.app/?username=aminmirzaei-dev&theme=onedark&margin-w=10&no-frame=true"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<!-- Activity Graph (Dark) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&area=true&hide_border=true&theme=github-dark"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<!-- 💯 Profile Metrics / Score (Dark) -->
+<img src="https://metrics.lecoq.io/aminmirzaei-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&achievements=1&lines=1&config.timezone=UTC&config.display=columns&config.animated=true&config.emoji=1&config.twemoji=1&config.octicon=1&config.display_mode=dark"/>
+
+</td>
+<td>
+
+<!-- 🟡 Language Usage % (Dark • Summary Cards) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev&theme=github_dark"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<!-- Profile Views (Badge) -->
+<img src="https://komarev.com/ghpvc/?username=aminmirzaei-dev&style=for-the-badge&color=30363d"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> Visual dashboards powered by open‑source GitHub infographic projects: **Stats · Streak · Trophies · Activity‑Graph · GitHub‑Metrics · Profile‑Summary‑Cards**.
+> Dark‑mode dashboards • neatly grouped by **Stats · Streak · Languages · Trophies · Activity · Metrics**.
 
 ---
 
