@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💠 **Amin Mirzaei — aminmirzaei-dev**
+# 👋 Hi, I’m **Amin Mirzaei**
 
 **Desktop & Mobile Software Developer** · **.NET & Qt Engineer**
 
