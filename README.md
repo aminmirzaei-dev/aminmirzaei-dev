@@ -41,7 +41,7 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ---
 
-## 📊 Open‑Source Infographics (Dark • Organized)
+## 📊 Infographics
 
 <div align="center">
 
