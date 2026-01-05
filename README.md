@@ -4,7 +4,7 @@
 
 **Desktop & Mobile Software Developer** · **.NET & Qt Engineer**
 
-Crafting fast, reliable, cross‑platform software with a passion for performance and clean architecture.
+Crafting fast, reliable, cross‑platform software — from native Qt/QML and C++ to .NET, Rust, and modern mobile stacks. Passionate about performance, clean architecture, and developer experience.
 
 </div>
 
@@ -21,7 +21,6 @@ Crafting fast, reliable, cross‑platform software with a passion for performanc
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-
 <br/>
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white"/>
@@ -33,7 +32,16 @@ Crafting fast, reliable, cross‑platform software with a passion for performanc
 
 ---
 
-## 📊 Open‑Source Infographics
+## 🚀 About Me
+
+- 🎯 Desktop & mobile application developer focused on **performance‑oriented architectures**
+- 🧱 Experienced with **Qt/QML, .NET, C/C++, C#, Java, JavaScript, Rust, Python**
+- 🔧 Interested in tooling, automation, and developer productivity
+- 🌱 Exploring **Rust** for performance‑critical components
+
+---
+
+## 📊 Open‑Source Infographics (Dynamic)
 
 <div align="center">
 
@@ -43,7 +51,7 @@ Crafting fast, reliable, cross‑platform software with a passion for performanc
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=aminmirzaei-dev&show_icons=true&theme=transparent"/>
 
-<!-- Top Languages -->
+<!-- Top Languages (Compact) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaei-dev&layout=compact&langs_count=8"/>
 
 <!-- Streak -->
@@ -55,29 +63,37 @@ Crafting fast, reliable, cross‑platform software with a passion for performanc
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&area=true&hide_border=true"/>
 
+<!-- 💯 Score / Profile Metrics (github‑metrics) -->
+<img src="https://metrics.lecoq.io/aminmirzaei-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&achievements=1&lines=1"/>
+
+<!-- 🟡 Language Usage % / Donut & Repo Breakdown -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev"/>
+
 </div>
 
-> These visual dashboards are powered by **open‑source GitHub infographic projects** (Stats, Streak, Trophies, Activity‑Graph).
+> Visual dashboards powered by open‑source GitHub infographic projects: **Stats · Streak · Trophies · Activity‑Graph · GitHub‑Metrics · Profile‑Summary‑Cards**.
 
 ---
 
 ## 🧠 Skill Matrix
 
 ```
-Systems Programming ───────────── ██████████
-Cross‑Platform UI / Qt / MAUI ─── █████████
-Desktop Engineering (.NET) ────── ████████
-Mobile Apps & Tooling ─────────── ███████
-Automation / Scripting ────────── ██████
+Systems Programming (C/C++ · Rust) ───── ██████████
+Cross‑Platform UI (Qt/QML · MAUI) ───── █████████
+Desktop Engineering (.NET) ──────────── ████████
+Mobile Apps & Tooling ──────────────── ███████
+Automation / Scripting ─────────────── ██████
 ```
 
 ---
 
-## 🎯 Current Focus
+## 🏗 Featured Focus Areas
 
-- High‑performance desktop & mobile applications
-- Qt / QML UX engineering and modular architecture
-- Rust for performance‑critical components
+- ⚡ High‑performance desktop & mobile application design
+- 🧩 Modular architectures & clean code principles
+- 🎨 Qt/QML UI engineering and UX refinement
+- 🛠 Developer tooling & workflow optimization
 
 ---
 
@@ -98,6 +114,6 @@ https://github.com/aminmirzaei-dev
 
 <p align="center">
 
-⭐ _If you like my work, consider starring repositories or reaching out for collaboration!_
+⭐ _If you like my work, feel free to star repositories or reach out for collaboration._
 
 </p>
