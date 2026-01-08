@@ -43,20 +43,6 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ## 📊 Infographics
 
-<!-- Top Languages (Dark • Compact) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmirzaei-dev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-
-</td>
-<td>
-
-<!-- Trophies (Dark) -->
-<img src="https://github-profile-trophy.vercel.app/?username=aminmirzaei-dev&theme=onedark&margin-w=10&no-frame=true"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 <!-- Activity Graph (Dark) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&area=true&hide_border=true&theme=github-dark"/>
 
