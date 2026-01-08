@@ -67,16 +67,11 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 <tr>
 <td colspan="2">
 
-<!-- Profile Views (Badge) -->
-<img src="https://komarev.com/ghpvc/?username=aminmirzaei-dev&style=for-the-badge&color=30363d"/>
-
 </td>
 </tr>
 </table>
 
 </div>
-
-> Dark‑mode dashboards • neatly grouped by **Stats · Streak · Languages · Trophies · Activity · Metrics**.
 
 ---
 
