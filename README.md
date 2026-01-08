@@ -46,11 +46,6 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 <!-- Activity Graph (Dark) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&area=true&hide_border=true&theme=github-dark"/>
 
-</td>
-</tr>
-<tr>
-<td>
-
 <!-- 💯 Profile Metrics / Score (Dark) -->
 <img src="https://metrics.lecoq.io/aminmirzaei-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&achievements=1&lines=1&config.timezone=UTC&config.display=columns&config.animated=true&config.emoji=1&config.twemoji=1&config.octicon=1&config.display_mode=dark"/>
 
