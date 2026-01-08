@@ -49,24 +49,11 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 <!-- 💯 Profile Metrics / Score (Dark) -->
 <img src="https://metrics.lecoq.io/aminmirzaei-dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&followup=1&achievements=1&lines=1&config.timezone=UTC&config.display=columns&config.animated=true&config.emoji=1&config.twemoji=1&config.octicon=1&config.display_mode=dark"/>
 
-</td>
-<td>
 
 <!-- 🟡 Language Usage % (Dark • Summary Cards) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark"/>
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev&theme=github_dark"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
