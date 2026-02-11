@@ -35,7 +35,7 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 ## 🚀 About Me
 
 - 🎯 Desktop & mobile application developer focused on **performance‑oriented architectures**
-- 🧱 Experienced with **Qt/QML, .NET, C/C++, C#, Java, JavaScript, Rust, Python**
+- 🧱 Experienced with **Qt/QML, .NET, C/C++, C#, Java, JavaScript, Dart(Flutter), Rust, Python**
 - 🔧 Interested in tooling, automation, and developer productivity
 - 🌱 Exploring **Rust** for performance‑critical components
 
@@ -52,7 +52,6 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 <!-- 🟡 Language Usage % (Dark • Summary Cards) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark"/>
-<br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev&theme=github_dark"/>
 
 ---
