@@ -56,10 +56,9 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ```
 Systems Programming (C/C++ · Rust) ───── ██████████
-Cross‑Platform UI (Qt/QML · MAUI) ───── █████████
-Desktop Engineering (.NET) ──────────── ████████
+Cross‑Platform UI (Qt/QML · MAUI) ───── ██████████
+Desktop Engineering (.NET) ──────────── █████████
 Mobile Apps & Tooling ──────────────── ███████
-Automation / Scripting ─────────────── ██████
 ```
 
 ---
