@@ -52,17 +52,6 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ---
 
-## 🧠 Skill Matrix
-
-```
-Systems Programming (C/C++ · Rust) ───── ██████████
-Cross‑Platform UI (Qt/QML · MAUI) ───── ██████████
-Desktop Engineering (.NET) ──────────── █████████
-Mobile Apps & Tooling ──────────────── ███████
-```
-
----
-
 ## 🏗 Featured Focus Areas
 
 - ⚡ High‑performance desktop & mobile application design
