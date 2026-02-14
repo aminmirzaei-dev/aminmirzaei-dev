@@ -47,9 +47,11 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&area=true&hide_border=true&theme=github-dark"/>
 
 <!-- 🟡 Language Usage % (Dark • Summary Cards) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev&theme=github_dark"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefvafaei&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev&theme=github_dark" />
+</div>
+
 
 ---
 
