@@ -48,9 +48,10 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 <!-- 🟡 Language Usage % (Dark • Summary Cards) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark" style="margin-right: 20px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminmirzaei-dev&theme=github_dark" />
 </div>
+
 
 
 ---
