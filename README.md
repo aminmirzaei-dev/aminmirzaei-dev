@@ -10,7 +10,7 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ---
 
-## 🧩 Tech Universe
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -32,7 +32,7 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ---
 
-## 🚀 About Me
+## 👨🏻‍🦱 About Me
 
 - 🎯 Desktop & mobile application developer focused on **performance‑oriented architectures**
 - 🧱 Experienced with **Qt/QML, .NET, C/C++, C#, Java, JavaScript, Dart(Flutter), Rust, Python**
