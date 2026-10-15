@@ -54,9 +54,6 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&theme=tokyo-night&hide_border=true" width="48%" />
 
 <br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aminmirzaei-dev&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
-
 </div>
 
 <div align="center">
