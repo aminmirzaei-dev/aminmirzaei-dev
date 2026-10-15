@@ -43,8 +43,21 @@ Crafting fast, reliable, cross‑platform software — from native Qt/QML and C+
 
 ## 📊 Infographics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&area=true&hide_border=true&theme=github-dark"/>
+<div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=aminmirzaei-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=aminmirzaei-dev&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aminmirzaei-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminmirzaei-dev&theme=tokyo-night&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aminmirzaei-dev&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminmirzaei-dev&theme=github_dark" style="margin-right: 20px;" />
