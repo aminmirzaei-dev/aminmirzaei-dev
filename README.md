@@ -5,10 +5,6 @@
 ### Desktop & .NET Developer
 
 Building high-performance desktop applications and cross-platform mobile experiences with **.NET, Qt/QML, C++, and Rust**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminmirzaei-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminmirzaeidev@gmail.com)
-
 </div>
 
 ---
